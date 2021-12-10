@@ -6,7 +6,6 @@ export const Viewers = () => {
         <Container>
             <Wrap>
                 <img src ="/images/viewers-disney.png" />
-                3:59:11
             </Wrap>
             <Wrap>
                 <img src ="/images/viewers-pixar.png" />
